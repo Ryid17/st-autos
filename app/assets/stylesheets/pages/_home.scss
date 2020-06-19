@@ -1,1 +1,11 @@
 // Specific CSS for your home-page
+
+.logo{
+height: 90px;
+width: 250px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
