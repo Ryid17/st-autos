@@ -1,0 +1,13 @@
+.footer {
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: auto;
+  padding: 50px 50px;
+  color: rgba(0,0,0,0.3);
+  vertical-align: bottom;
+  position: sticky-bottom;
+  width: 100%;
+  max-height: 30px;
+}
